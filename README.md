@@ -14,6 +14,9 @@
   - [SDKs](#sdks)
   - [Tools / Utilities](#tools--utilities)
   - [dApps](#dapps)
+  - [DeFi](#defi)
+    - [Exchanges support STEEM](#exchanges-support-steem)
+    - [Swap Tools](#swap-tools)
   - [Services](#services)
     - [Steem DAO](#steem-dao)
   - [Contribute](#contribute)
@@ -31,6 +34,7 @@ Steem node implementation.
 - [Steemit](https://steemit.com) - This is the official frontend that is run by Steemit Inc. ([code](https://github.com/steemit/condenser))
 - [Upvu](http://upvu.org/)
 - [SteemCN](https://steemcn.xyz) - By [@ericet](https://steemit.com/@ericet)
+- [Boylikegirl](https://boylikegirl.club/community) - By [@boylikegirl](https://steemit.com/@boylikegirl)
 
 ## Block Explorers
 - [Steem Block Explorer](https://steemblockexplorer.com/)
@@ -74,8 +78,12 @@ Steem node implementation.
 
 *Useful tools/utilities when building with Steem*
 
+- Account Recovery
+  - [SteemWorld](https://steemworld.org/account-recovery) - by [@steemchiller](https://steemit.com/@steemchiller)
 - Authentication / Wallet
-  - [Steem Keychain](https://github.com/stoodkev/Steem-keychain) - A wallet browser extension for the Steem blockchain and cryptocurrency.
+  - [Steem Keychain](https://github.com/MattyIce/steem-keychain) - A wallet browser extension for the Steem blockchain and cryptocurrency.
+  - [Whale Vault](https://chromewebstore.google.com/detail/whalevault/hcoigoaekhfajcoingnngmfjdidhmdon) - This chrome extension supports multiple chains including STEEM.
+  - [Steem Keys](https://steemyy.com/keys/) - View the Steem Active/Posting/Owner Keys by [@justyy](https://steemit.com/@justyy)
   - [Steemit Wallet](https://steemitwallet.com) - Official Steemit Wallet, ([code](https://github.com/steemit/wallet)).
 - Data Service / API
   - [SDS API Reference](https://sds1.steemworld.org/) - by [@steemchiller](https://steemit.com/@steemchiller)
@@ -85,12 +93,33 @@ Steem node implementation.
   - [Witness List](https://steemyy.com/witness-ranking/) - Witness List by [@justyy](https://steemit.com/@justyy).
   - [Witness List](https://steemscan.com/witnesses) - Witness List by [@future.witness](https://steemit.com/@future.witness).
   - [Witness Schedule](https://steemworld.org/witness-schedule) - Witness Block Producing Scheduler by [@steemchiller](https://steemit.com/@steemchiller).
+- Account Registrations
+  - [SteemIt](https://signup.steemit.com/) Official Account Sign Up by Steemit.
+  - [SteemYY](https://steemyy.com/reg.php) Free Account Registration by [@justyy](https://steemit.com/@justyy)
+  - [Steem Account Creator](https://steemworld.org/account-creator) - Requires RC or 3 STEEM, by [@steemchiller](https://steemit.com/@steemchiller)
 
 ## dApps
 
 *Some cool dApps built with Steem*
 
+- Videos
+  - [dTube](https://d.tube/)
+
 - TODO
+
+## DeFi
+
+### Exchanges support STEEM
+- [HTX](https://justyy.com/out/htx)
+- [Poloniex](https://poloniex.com/)
+- [MEXC](https://justyy.com/out/mexc)
+
+### Swap Tools
+- [Steem to TRX](https://steemyy.com/steem2trx.php)
+- [Steem to USDT](https://steemyy.com/steem2usdt.php)
+- [Steem to BTS](https://steemyy.com/steem2bts.php)
+- [Steem to ETH](https://steemyy.com/steem2eth.php)
+- [Steem to SOL](https://steemyy.com/steem2sol.php)
 
 ## Services
 
