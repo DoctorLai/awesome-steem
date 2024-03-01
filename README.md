@@ -1,8 +1,8 @@
-# awesome-Steem
+# awesome-steem
 ![](https://steemyy.com/images/steem-crypto.png)
 > A curated list of awesome Steem resources.
 
-- [awesome-Steem](#awesome-steem)
+- [awesome-steem](#awesome-steem)
   - [Steem source code](#steem-source-code)
   - [Frontends](#frontends)
     - [Generic](#generic)
@@ -64,6 +64,12 @@ Steem node implementation.
 
 - [Steem](https://steem.io) - Fast, scalable, powerful blockchain for Web3.0, ([code](https://github.com/steemit/steem)).
 - [hivemind](https://github.com/steemit/hivemind) - Developer-friendly microservice powering social networks on the Steem blockchain.
+- [Steem Backup Data Server](https://files.steem.fans/) - by [@ety001](https://steemit.com/@ety001)
+- RPC/Seed Nodes
+  - [Seed/RPC Nodes Testing](https://ecosynthesizer.com/steem/nodes) by [@symbionts](https://steemit.com/@symbionts)
+  - [Steem Seed Nodes Check](https://steemworld.org/seed-nodes-check) by [@steemchiller](https://steemit.com/@steemchiller)
+  - [Steem API Node Status](https://steemyy.com/node-status.php) by [@justyy](https://steemit.com/@justyy)
+  - [Load Balancer Node](https://steem.senior.workers.dev/) by [@justyy](https://steemit.com/@justyy)
 
 ## SDKs
 
@@ -92,6 +98,7 @@ Steem node implementation.
   - [Witness List](https://ecosynthesizer.com/steem/witnesses) - Witness List by [@symbionts](https://steemit.com/@symbionts).
   - [Witness List](https://steemyy.com/witness-ranking/) - Witness List by [@justyy](https://steemit.com/@justyy).
   - [Witness List](https://steemscan.com/witnesses) - Witness List by [@future.witness](https://steemit.com/@future.witness).
+  - [Witness List](https://steemworld.org/witnesses) - Witness List by [@steemchiller](https://steemit.com/@steemchiller).
   - [Witness Schedule](https://steemworld.org/witness-schedule) - Witness Block Producing Scheduler by [@steemchiller](https://steemit.com/@steemchiller).
 - Account Registrations
   - [SteemIt](https://signup.steemit.com/) Official Account Sign Up by Steemit.
