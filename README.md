@@ -87,13 +87,14 @@ Steem node implementation.
 - Account Recovery
   - [SteemWorld](https://steemworld.org/account-recovery) - by [@steemchiller](https://steemit.com/@steemchiller)
 - Authentication / Wallet
-  - [Steem Keychain](https://github.com/MattyIce/steem-keychain) - A wallet browser extension for the Steem blockchain and cryptocurrency.
+  - [Steem Keychain](https://github.com/DoctorLai/steem-keychain) - A wallet browser extension for the Steem blockchain and cryptocurrency.
   - [Whale Vault](https://chromewebstore.google.com/detail/whalevault/hcoigoaekhfajcoingnngmfjdidhmdon) - This chrome extension supports multiple chains including STEEM.
   - [Steem Keys](https://steemyy.com/keys/) - View the Steem Active/Posting/Owner Keys by [@justyy](https://steemit.com/@justyy)
   - [Steemit Wallet](https://steemitwallet.com) - Official Steemit Wallet, ([code](https://github.com/steemit/wallet)).
 - Data Service / API
   - [SDS API Reference](https://sds1.steemworld.org/) - by [@steemchiller](https://steemit.com/@steemchiller)
 - Witness
+  - [Tutorial: How to Deploy a Steem Witness Node By Docker](https://steemit.com/witness/@ety001/how-to-deploy-a-steem-witness-node-by-docker) by [@ety001](https://steemit.com/@ety001)
   - [Witness List](https://steemitwallet.com/~witnesses) - Steem Inc.
   - [Witness List](https://ecosynthesizer.com/steem/witnesses) - Witness List by [@symbionts](https://steemit.com/@symbionts).
   - [Witness List](https://steemyy.com/witness-ranking/) - Witness List by [@justyy](https://steemit.com/@justyy).
