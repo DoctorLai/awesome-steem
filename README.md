@@ -91,6 +91,7 @@ Steem node implementation.
   - [Whale Vault](https://chromewebstore.google.com/detail/whalevault/hcoigoaekhfajcoingnngmfjdidhmdon) - This chrome extension supports multiple chains including STEEM.
   - [Steem Keys](https://steemyy.com/keys/) - View the Steem Active/Posting/Owner Keys by [@justyy](https://steemit.com/@justyy)
   - [Steemit Wallet](https://steemitwallet.com) - Official Steemit Wallet, ([code](https://github.com/steemit/wallet)).
+  - [steem.vip](https://vip.steem.vip) - Steem wallet  by [@maiyude]. ([code](https://github.com/maiyude2018/steem-web-wallet))
 - Data Service / API
   - [SDS API Reference](https://sds1.steemworld.org/) - by [@steemchiller](https://steemit.com/@steemchiller)
 - Witness
