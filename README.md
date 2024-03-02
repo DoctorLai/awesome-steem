@@ -78,7 +78,8 @@ Steem node implementation.
 - JavaScript
   - [Steem-js](https://www.npmjs.com/package/@steemit/steem-js) - Official JavaScript library for Steem blockchain.
 - Python
-  - [Steem-python](https://github.com/steemit/steem-python) - Official Python library for Steem blockchain. 
+  - [Steem-python](https://github.com/steemit/steem-python) - Official Python library for Steem blockchain.
+  - [Steemhd](https://github.com/maiyude2018/steemhd) - This package allows generating mnemonics, seeds, private/public keys and addresses for different types of cryptocurrencies. 
 
 ## Tools / Utilities
 
