@@ -13,3 +13,5 @@ Please ensure your pull request adheres to the following guidelines:
 - Make sure your text editor is set to remove trailing whitespace.
 
 Thank you for your suggestions!
+
+- [steem.vip](https://vip.steem.vip) - Steem wallet . ([code](https://github.com/maiyude2018/steem-web-wallet))
