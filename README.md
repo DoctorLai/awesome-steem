@@ -119,8 +119,9 @@ Steem node implementation.
 
 ### Exchanges support STEEM
 - [HTX](https://justyy.com/out/htx)
-- [Poloniex](https://poloniex.com/)
+- [Poloniex](https://justyy.com/out/poloniex)
 - [MEXC](https://justyy.com/out/mexc)
+- [Ionomy](https://justyy.com/out/ionomy)
 
 ### Swap Tools
 - [Steem to TRX](https://steemyy.com/steem2trx.php)
