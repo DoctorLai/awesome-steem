@@ -15,7 +15,7 @@
   - [Tools / Utilities](#tools--utilities)
   - [dApps](#dapps)
   - [DeFi](#defi)
-    - [Exchanges support STEEM](#exchanges-support-steem)
+    - [Exchanges that support STEEM](#exchanges-that-support-steem)
     - [Swap Tools](#swap-tools)
   - [Services](#services)
     - [Steem DAO](#steem-dao)
@@ -79,7 +79,7 @@ Steem node implementation.
   - [Steem-js](https://www.npmjs.com/package/@steemit/steem-js) - Official JavaScript library for Steem blockchain.
 - Python
   - [Steem-python](https://github.com/steemit/steem-python) - Official Python library for Steem blockchain.
-  - [Steemhd](https://github.com/maiyude2018/steemhd) - This package allows generating mnemonics, seeds, private/public keys and addresses for different types of cryptocurrencies. 
+  - [Steemhd](https://github.com/maiyude2018/steemhd) - This package allows generating mnemonics, seeds, private/public keys and addresses for different types of cryptocurrencies. By [@maiyude](https://steemit.com/@maiyude)
 
 ## Tools / Utilities
 
@@ -92,7 +92,7 @@ Steem node implementation.
   - [Whale Vault](https://chromewebstore.google.com/detail/whalevault/hcoigoaekhfajcoingnngmfjdidhmdon) - This chrome extension supports multiple chains including STEEM.
   - [Steem Keys](https://steemyy.com/keys/) - View the Steem Active/Posting/Owner Keys by [@justyy](https://steemit.com/@justyy)
   - [Steemit Wallet](https://steemitwallet.com) - Official Steemit Wallet, ([code](https://github.com/steemit/wallet)).
-  - [steem.vip](https://vip.steem.vip) - Steem wallet  by [@maiyude]. ([code](https://github.com/maiyude2018/steem-web-wallet))
+  - [steem.vip](https://vip.steem.vip) - Steem wallet by [@maiyude](https://steemit.com/@maiyude). ([code](https://github.com/maiyude2018/steem-web-wallet))
 - Data Service / API
   - [SDS API Reference](https://sds1.steemworld.org/) - by [@steemchiller](https://steemit.com/@steemchiller)
 - Witness
@@ -122,13 +122,17 @@ Steem node implementation.
 
 ## DeFi
 
-### Exchanges support STEEM
+### Exchanges that support STEEM
+*Make sure you put the memo when sending funds to the exchanges*
+
 - [HTX](https://justyy.com/out/htx)
 - [Poloniex](https://justyy.com/out/poloniex)
 - [MEXC](https://justyy.com/out/mexc)
 - [Ionomy](https://justyy.com/out/ionomy)
 
 ### Swap Tools
+*Swap STEEM to other coins*
+
 - [Steem to TRX](https://steemyy.com/steem2trx.php)
 - [Steem to USDT](https://steemyy.com/steem2usdt.php)
 - [Steem to BTS](https://steemyy.com/steem2bts.php)
@@ -136,11 +140,11 @@ Steem node implementation.
 - [Steem to SOL](https://steemyy.com/steem2sol.php)
 
 ## Services
+*Online tools and APIs to simplify development.*
 
-Online tools and APIs to simplify development.
+Here is the [STEEM dapps and services list](https://steemit.vercel.app/svcs) by [@joviansummer](https://steemit.com/@joviansummer)
 
 ### Steem DAO
-
 *Steem DAO is dedicated to improve the Steem platform*
 
 - [Decentralized Steem Fund](https://developers.steem.io/services/#services-dhf) - Propose and vote for projects that improves Steem and promote its growth. [See current proposals](https://steemitwallet.com/proposals)
