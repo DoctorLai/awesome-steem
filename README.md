@@ -103,6 +103,7 @@ Steem node implementation.
   - [Witness List](https://steemscan.com/witnesses) - Witness List by [@future.witness](https://steemit.com/@future.witness).
   - [Witness List](https://steemworld.org/witnesses) - Witness List by [@steemchiller](https://steemit.com/@steemchiller).
   - [Witness Schedule](https://steemworld.org/witness-schedule) - Witness Block Producing Scheduler by [@steemchiller](https://steemit.com/@steemchiller).
+  - [Witness Price Feed Publish](https://github.com/DoctorLai/pricefeed) - by [@justyy](https://steemit.com/@justyy)
 - Account Registrations
   - [SteemIt](https://signup.steemit.com/) Official Account Sign Up by Steemit.
   - [SteemYY](https://steemyy.com/reg.php) Free Account Registration by [@justyy](https://steemit.com/@justyy)
