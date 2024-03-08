@@ -105,10 +105,12 @@ Steem node implementation.
   - [Witness Schedule](https://steemworld.org/witness-schedule) - Witness Block Producing Scheduler by [@steemchiller](https://steemit.com/@steemchiller).
   - [Witness Price Feed Publish](https://github.com/DoctorLai/pricefeed) - by [@justyy](https://steemit.com/@justyy)
 - Account Registrations
+  - [List of Account Signup Tools](https://signup.steemcn.xyz/) - by [@ericet](https://steemit.com/@ericet). This lists a few available account signup tools.
   - [SteemIt](https://signup.steemit.com/) Official Account Sign Up by Steemit.
   - [SteemYY](https://steemyy.com/reg.php) Free Account Registration by [@justyy](https://steemit.com/@justyy)
+  - [SteemHunt](https://steemhunt.com/sign-up) Free Account Registration by [@steemhunt](https://steemit.com/@steemhunt)
   - [Steem Account Creator](https://steemworld.org/account-creator) - Requires RC or 3 STEEM, by [@steemchiller](https://steemit.com/@steemchiller)
-- Search
+  Search
   - [Search Posts on Steemit](https://moecki.online/) - By [@moecki](https://steemit.com/@moecki)
 
 ## dApps
