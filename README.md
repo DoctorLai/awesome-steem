@@ -80,11 +80,16 @@ Steem node implementation.
 - Python
   - [Steem-python](https://github.com/steemit/steem-python) - Official Python library for Steem blockchain.
   - [Steemhd](https://github.com/maiyude2018/steemhd) - This package allows generating mnemonics, seeds, private/public keys and addresses for different types of cryptocurrencies. By [@maiyude](https://steemit.com/@maiyude)
+  - [SteemJ](https://github.com/marvin-we/steem-java-api-wrapper) - Java Wrapper by [@dez1337](https://steemit.com/@dez1337), however the project seems not maintained any more.
 
 ## Tools / Utilities
 
 *Useful tools/utilities when building with Steem*
 
+- All in One (sites that have many features)
+    - [SteemWorld](https://steemworld.org) - by [@steemchiller](https://steemit.com/@steemchiller)
+    - [SteemYY](https://steemyy.com) - by [@justyy](https://steemit.com/@justyy)
+    - [SteemCryptic](https://www.steemcryptic.me/) by [@starlord28](https://steemit.com/@starlord28)
 - Account Recovery
   - [SteemWorld](https://steemworld.org/account-recovery) - by [@steemchiller](https://steemit.com/@steemchiller)
 - Authentication / Wallet
