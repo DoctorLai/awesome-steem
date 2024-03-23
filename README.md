@@ -19,6 +19,8 @@
     - [Swap Tools](#swap-tools)
   - [Services](#services)
     - [Steem DAO](#steem-dao)
+    - [Steem Bots](#steem-bots)
+      - [Comment Bots](#comment-bots)
   - [Contribute](#contribute)
 
 ## Steem source code
@@ -160,6 +162,13 @@ Here is the [STEEM dapps and services list](https://steemit.vercel.app/svcs) by 
 *Steem DAO is dedicated to improve the Steem platform*
 
 - [Decentralized Steem Fund](https://developers.steem.io/services/#services-dhf) - Propose and vote for projects that improves Steem and promote its growth. [See current proposals](https://steemitwallet.com/proposals)
+
+### Steem Bots
+
+#### Comment Bots
+You can invoke bots when posting comments:
+- *!ask PROMPT*: [invokes ChatGPT 3.5](https://helloacm.com/integrating-chatgpt-prompt-ai-to-steem-blockchain/), by [@justyy](https://steemit.com/@justyy)
+- *!thumbup*: summons a Random Giphy, by [@justyy](https://steemit.com/@justyy)
 
 ## Contribute
 
