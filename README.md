@@ -138,6 +138,7 @@ Steem node implementation.
 - [HTX](https://justyy.com/out/htx)
 - [Poloniex](https://justyy.com/out/poloniex)
 - [MEXC](https://justyy.com/out/mexc)
+- [Binance](https://justyy.com/out/binance)
 - [Ionomy](https://justyy.com/out/ionomy)
 
 ### Swap Tools
