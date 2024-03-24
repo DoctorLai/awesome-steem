@@ -118,7 +118,7 @@ Steem node implementation.
   - [SteemYY](https://steemyy.com/reg.php) Free Account Registration by [@justyy](https://steemit.com/@justyy)
   - [SteemHunt](https://steemhunt.com/sign-up) Free Account Registration by [@steemhunt](https://steemit.com/@steemhunt)
   - [Steem Account Creator](https://steemworld.org/account-creator) - Requires RC or 3 STEEM, by [@steemchiller](https://steemit.com/@steemchiller)
-  Search
+- Search
   - [Search Posts on Steemit](https://moecki.online/) - By [@moecki](https://steemit.com/@moecki)
 
 ## dApps
