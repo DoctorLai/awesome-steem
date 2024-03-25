@@ -19,6 +19,7 @@
     - [Swap Tools](#swap-tools)
   - [Services](#services)
     - [Steem DAO](#steem-dao)
+    - [Tokens](#tokens)
     - [Steem Bots](#steem-bots)
       - [Comment Bots](#comment-bots)
   - [Contribute](#contribute)
@@ -37,6 +38,7 @@ Steem node implementation.
 - [Upvu](http://upvu.org/)
 - [SteemCN](https://steemcn.xyz) - By [@ericet](https://steemit.com/@ericet)
 - [Boylikegirl](https://boylikegirl.club/community) - By [@boylikegirl](https://steemit.com/@boylikegirl)
+- [WhereIn](http://www.wherein.io/) - By [@iguazi123](https://steemit.com/@iguazi123)
 
 ## Block Explorers
 - [Steem Block Explorer](https://steemblockexplorer.com/)
@@ -162,6 +164,10 @@ Here is the [STEEM dapps and services list](https://steemit.vercel.app/svcs) by 
 *Steem DAO is dedicated to improve the Steem platform*
 
 - [Decentralized Steem Fund](https://developers.steem.io/services/#services-dhf) - Propose and vote for projects that improves Steem and promote its growth. [See current proposals](https://steemitwallet.com/proposals)
+
+### Tokens
+- [Peanut Community](https://app.nutbox.io/#/sub-community/home/?id=0xc54C1F0E7A75Fb405038891E316c973D26Bf0125) by [@iguazi123](https://steemit.com/@iguazi123)
+- [Wormhole3: A Staking DAO based on the PoS (including DPoS, NPoS, etc.) blockchain](https://alpha.wormhole3.io/community-detail/cab1b9a9ee34) by [@iguazi123](https://steemit.com/@iguazi123)
 
 ### Steem Bots
 
