@@ -96,6 +96,7 @@ Steem node implementation.
     - [SteemYY](https://steemyy.com) - by [@justyy](https://steemit.com/@justyy)
     - [SteemCryptic](https://www.steemcryptic.me/) by [@starlord28](https://steemit.com/@starlord28)
 - Account Recovery
+  - [SteemIt](https://steemitwallet.com/recover_account_step_1)
   - [SteemWorld](https://steemworld.org/account-recovery) - by [@steemchiller](https://steemit.com/@steemchiller)
 - Authentication / Wallet
   - [Steem Keychain](https://github.com/DoctorLai/steem-keychain) - A wallet browser extension for the Steem blockchain and cryptocurrency.
