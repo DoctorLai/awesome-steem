@@ -96,6 +96,7 @@ Steem node implementation.
     - [SteemWorld](https://steemworld.org) - by [@steemchiller](https://steemit.com/@steemchiller)
     - [SteemYY](https://steemyy.com) - by [@justyy](https://steemit.com/@justyy)
     - [SteemCryptic](https://www.steemcryptic.me/) by [@starlord28](https://steemit.com/@starlord28)
+    - [SteemBlocks](https://steemblocks.com/) by [@dhaka.witness](https://steemit.com/@dhaka.witness)
 - Account Recovery
   - [SteemIt](https://steemitwallet.com/recover_account_step_1)
   - [SteemWorld](https://steemworld.org/account-recovery) - by [@steemchiller](https://steemit.com/@steemchiller)
