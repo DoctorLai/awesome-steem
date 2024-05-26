@@ -139,6 +139,7 @@ Steem node implementation.
 - TODO
 
 ## DeFi
+You can swap STEEM to SBD or vice versa in [STEEM internal market (zero fees)](https://steemitwallet.com/market).
 
 ### Exchanges that support STEEM
 *Make sure you put the memo when sending funds to the exchanges*
@@ -149,14 +150,18 @@ Steem node implementation.
 - [Binance](https://justyy.com/out/binance)
 - [Ionomy](https://justyy.com/out/ionomy)
 
-### Swap Tools
-*Swap STEEM to other coins*
+### Exchanges that support SBD
+- [HTX](https://justyy.com/out/htx)
+- [Ionomy](https://justyy.com/out/ionomy)
 
-- [Steem to TRX](https://steemyy.com/steem2trx.php)
-- [Steem to USDT](https://steemyy.com/steem2usdt.php)
-- [Steem to BTS](https://steemyy.com/steem2bts.php)
-- [Steem to ETH](https://steemyy.com/steem2eth.php)
-- [Steem to SOL](https://steemyy.com/steem2sol.php)
+### Swap Tools
+*Swap STEEM or SBD to other coins/tokens.*
+
+- [Steem/SBD to TRX](https://steemyy.com/steem2trx.php)
+- [Steem/SBD to USDT](https://steemyy.com/steem2usdt.php)
+- [Steem/SBD to BTS](https://steemyy.com/steem2bts.php)
+- [Steem/SBD to ETH](https://steemyy.com/steem2eth.php)
+- [Steem/SBD to SOL](https://steemyy.com/steem2sol.php)
 
 ## Services
 *Online tools and APIs to simplify development.*
