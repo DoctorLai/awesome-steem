@@ -37,7 +37,7 @@ Steem node implementation.
 - [Steemit](https://steemit.com) - This is the official frontend that is run by Steemit Inc. ([code](https://github.com/steemit/condenser))
 - [Steemit Dev](https://steemitdev.com) - This is the testing/development/alpha frontend that is run by Steemit Inc.
 - [Upvu](http://upvu.org/)
-- [SteemPro](https://steempro.com) - By [@fasilamin](https://steemit.com/@fasilamin)
+- [SteemPro](https://steempro.com) - By [@faisalamin](https://steemit.com/@faisalamin)
 - [SteemCN](https://steemcn.xyz) - By [@ericet](https://steemit.com/@ericet)
 - [Boylikegirl](https://boylikegirl.club/community) - By [@boylikegirl](https://steemit.com/@boylikegirl)
 - [WhereIn](http://www.wherein.io/) - By [@iguazi123](https://steemit.com/@iguazi123)
