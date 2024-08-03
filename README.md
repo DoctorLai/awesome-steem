@@ -136,7 +136,8 @@ Steem node implementation.
   - [dTube](https://d.tube/)
 
 - Social
-  - [Onlyfun](https://app.onlyfun.city/) - Social Platform,Nft and Finance.
+  - [Onlyfun](https://app.onlyfun.city/) - Social Platform, Nft and Finance.
+  - [SteemChat](https://steemchat.org) - Steem Chat (IM) by [@stmpak.wit](https://steemit.com/@stmpak.wit) witness.
 
 - TODO
 
@@ -155,6 +156,11 @@ You can swap STEEM to SBD or vice versa in [STEEM internal market (zero fees)](h
 ### Exchanges that support SBD
 - [HTX](https://justyy.com/out/htx)
 - [Ionomy](https://justyy.com/out/ionomy)
+
+### Rent Steem Power
+You can rent/lease Steem Power:
+
+- [steemyy](https://steemyy.com/rent-sp.php)
 
 ### Swap Tools
 *Swap STEEM or SBD to other coins/tokens.*
