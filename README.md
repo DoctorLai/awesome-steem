@@ -50,6 +50,17 @@ Steem node implementation.
 - [Ecosynthesizer](https://ecosynthesizer.com/steem/blk/82824811) - This is owned by [@symbionts](https://steemit.com/@symbionts)
 - [SteemScan](https://steemscan.com/block/82974704) - This is owned by [@future.witness](https://steemit.com/@future.witness)
 
+## Common Operations for Steemians
+### Delegate Steem Power
+You can delegate Steem Power to a steem account using:
+- [SteemYY Delegate Form](https://steemyy.com/sp-delegate-form/)
+- [SteemIt Wallet](https://steemitwallet.com/@justyy)
+
+### Vote or Proxy a Witness
+You can vote or proxy a Steem Witness:
+- [SteemYY Witness Voting Tool](https://steemyy.com/witness-voting/)
+- [Steemit](https://steemit.com/~witnesses)
+
 ## Documentation
 - [Steem Developer Portal](https://developers.steem.io)
 
