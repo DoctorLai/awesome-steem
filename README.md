@@ -98,7 +98,7 @@ You can vote or proxy a Steem Witness:
 *SDKs for common languages*
 
 - JavaScript
-  - [Steem-js](https://www.npmjs.com/package/@steemit/steem-js) - Official JavaScript library for Steem blockchain.
+  - [Steem-js](https://www.npmjs.com/package/@steemit/steem-js) - Official JavaScript library for Steem blockchain. You can test the library using [here](https://steemyy.com/steemjs/)
 - Python
   - [Steem-python](https://github.com/steemit/steem-python) - Official Python library for Steem blockchain.
   - [Steemhd](https://github.com/maiyude2018/steemhd) - This package allows generating mnemonics, seeds, private/public keys and addresses for different types of cryptocurrencies. By [@maiyude](https://steemit.com/@maiyude)
@@ -183,6 +183,7 @@ You can rent/lease Steem Power:
 ### Swap Tools
 *Swap STEEM or SBD to other coins/tokens.*
 
+- [Tron(TRX/USDT/USDD) to STEEM](https://steemyy.com/tron2steem.php)
 - [Steem/SBD to TRX](https://steemyy.com/steem2trx.php)
 - [Steem/SBD to USDT](https://steemyy.com/steem2usdt.php)
 - [Steem/SBD to BTS](https://steemyy.com/steem2bts.php)
