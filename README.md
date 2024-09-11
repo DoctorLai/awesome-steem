@@ -136,6 +136,7 @@ You can vote or proxy a Steem Witness:
   - [Witness Schedule](https://steemworld.org/witness-schedule) - Witness Block Producing Scheduler by [@steemchiller](https://steemit.com/@steemchiller).
   - [Witness Price Feed Publish](https://github.com/DoctorLai/pricefeed) - by [@justyy](https://steemit.com/@justyy)
   - [Simple Steem Docker Utility](https://github.com/DoctorLai/simple-steem-docker/) - by [@justyy](https://steemit.com/@justyy)
+  - [Auto Switch Steem Witness Node](https://github.com/DoctorLai/SteemWitnessAutoSwitch) - by [@justyy](https://steemit.com/@justyy)
 - Account Registrations
   - [List of Account Signup Tools](https://signup.steemcn.xyz/) - by [@ericet](https://steemit.com/@ericet). This lists a few available account signup tools.
   - [SteemIt](https://signup.steemit.com/) Official Account Sign Up by Steemit.
