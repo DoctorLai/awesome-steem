@@ -87,7 +87,7 @@ You can vote or proxy a Steem Witness:
 - [Steem](https://steem.io) - Fast, scalable, powerful blockchain for Web3.0, ([code](https://github.com/steemit/steem)).
 - [hivemind](https://github.com/steemit/hivemind) - Developer-friendly microservice powering social networks on the Steem blockchain.
 - [Steem Backup Data Server](https://files.steem.fans/) - by [@ety001](https://steemit.com/@ety001)
-- RPC/Seed Nodes
+- RPC/Seed Nodes: [List of Seed Nodes](https://github.com/DoctorLai/simple-steem-docker/blob/main/steem-seed-nodes.txt)
   - [Seed/RPC Nodes Testing](https://ecosynthesizer.com/steem/nodes) by [@symbionts](https://steemit.com/@symbionts)
   - [Steem Seed Nodes Check](https://steemworld.org/seed-nodes-check) by [@steemchiller](https://steemit.com/@steemchiller)
   - [Steem API Node Status](https://steemyy.com/node-status.php) by [@justyy](https://steemit.com/@justyy)
