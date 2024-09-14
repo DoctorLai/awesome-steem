@@ -91,7 +91,7 @@ You can vote or proxy a Steem Witness:
   - [Seed/RPC Nodes Testing](https://ecosynthesizer.com/steem/nodes) by [@symbionts](https://steemit.com/@symbionts)
   - [Steem Seed Nodes Check](https://steemworld.org/seed-nodes-check) by [@steemchiller](https://steemit.com/@steemchiller)
   - [Steem API Node Status](https://steemyy.com/node-status.php) by [@justyy](https://steemit.com/@justyy)
-  - [Load Balancer Node](https://steem.senior.workers.dev/) by [@justyy](https://steemit.com/@justyy)
+  - [Load Balancer Node](https://steemit.com/hive-102132/@justyy/open-sourcing-steem-load-balancer-and-introduce-steem-justyy-com) by [@justyy](https://steemit.com/@justyy)
 
 ## SDKs
 
