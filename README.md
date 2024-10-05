@@ -212,6 +212,10 @@ You can invoke bots when posting comments:
 - *!thumbup*: summons a Random Giphy, by [@justyy](https://steemit.com/@justyy)
 - *!info*: displays current STEEM information, by [@justyy](https://steemit.com/@justyy)
 
+## Social Network
+- [Facebook](https://www.facebook.com/steemnetwork)
+- [X](https://x.com/steemit)
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
