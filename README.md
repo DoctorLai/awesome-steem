@@ -214,7 +214,8 @@ You can invoke bots when posting comments:
 
 ## Social Network
 - [Facebook](https://www.facebook.com/steemnetwork)
-- [X](https://x.com/steemit)
+- [X: steemit](https://x.com/steemit)
+- [X: SteemNetwork](https://x.com/SteemNetwork)
 
 ## Contribute
 
