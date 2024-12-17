@@ -79,6 +79,7 @@ You can vote or proxy a Steem Witness:
 
 - [Developer Portal](https://developers.steem.io/) - The developer portal of Steem.
 - [Steem Glossary](https://developers.steem.io/glossary/#glossary-chain-basics) - Understanding the common terms used by the Steem blockchain.
+- [Steem Documentation](https://steemit.github.io/docs/) - The "Official" Documentation for the Steem Blockchain
 
 ## Infrastructure
 
