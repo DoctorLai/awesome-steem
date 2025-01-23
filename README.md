@@ -1,6 +1,6 @@
 # awesome-steem
 ![](https://steemyy.com/images/steem-crypto.png)
-> A curated list of awesome Steem resources.
+> A curated list of awesome Steem resources. The latest version is on [https://doctorlai.github.io/awesome-steem/](https://doctorlai.github.io/awesome-steem/)
 
 - [awesome-steem](#awesome-steem)
   - [Steem source code](#steem-source-code)
@@ -48,7 +48,7 @@ Steem node implementation.
 - [WhereIn](http://www.wherein.io/) - By [@iguazi123](https://steemit.com/@iguazi123)
 
 ## Block Explorers
-- [Steem Block Explorer](https://steemblockexplorer.com/)
+- [Steem Block Explorer](https://steemblockexplorer.com/) - by [@penguinpablo](https://steemit.com/@penguinpablo)
 - [SteemDB](http://steemdb.io/) - This is owned by [Steemit Inc](https://steem.com).
 - [SteemWorld](https://steemworld.org/block/61000000) - This is owned by [@steemchiller](https://steemit.com/@steemchiller)
 - [SteemYY](https://steemyy.com/block.php) - This is owned by [@justyy](https://steemit.com/@justyy)
@@ -160,7 +160,8 @@ You can vote or proxy a Steem Witness:
   - [Onlyfun](https://app.onlyfun.city/) - Social Platform, Nft and Finance.
   - [SteemChat](https://steemchat.org) - Steem Chat (IM) by [@stmpak.wit](https://steemit.com/@stmpak.wit) witness.
 
-- TODO
+- GameFi
+  - [Steem Retro Games](https://steem-retrogames.com/) by [@time.foundation](https://steemit.com/@time.foundation) and [@italygame](https://steemit.com/@italygame).
 
 ## DeFi
 You can swap STEEM to SBD or vice versa in [STEEM internal market (zero fees)](https://steemitwallet.com/market).
@@ -172,11 +173,9 @@ You can swap STEEM to SBD or vice versa in [STEEM internal market (zero fees)](h
 - [Poloniex](https://justyy.com/out/poloniex)
 - [MEXC](https://justyy.com/out/mexc)
 - [Binance](https://justyy.com/out/binance)
-- [Ionomy](https://justyy.com/out/ionomy)
 
 ### Exchanges that support SBD
 - [HTX](https://justyy.com/out/htx)
-- [Ionomy](https://justyy.com/out/ionomy)
 
 ### Rent Steem Power
 You can rent/lease Steem Power:
