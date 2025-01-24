@@ -146,6 +146,7 @@ You can vote or proxy a Steem Witness:
   - [SteemYY](https://steemyy.com/reg.php) Free Account Registration by [@justyy](https://steemit.com/@justyy)
   - [SteemHunt](https://steemhunt.com/sign-up) Free Account Registration by [@steemhunt](https://steemit.com/@steemhunt)
   - [Steem Account Creator](https://steemworld.org/account-creator) - Requires RC or 3 STEEM, by [@steemchiller](https://steemit.com/@steemchiller)
+  - [A Pussfi Project Steem-id](https://steem-id.com/) by [Puss Meme Team](https://puss.meme/)
 - Search
   - [Search Posts on Steemit](https://moecki.online/) - By [@moecki](https://steemit.com/@moecki)
 
@@ -165,6 +166,11 @@ You can vote or proxy a Steem Witness:
 
 ## DeFi
 You can swap STEEM to SBD or vice versa in [STEEM internal market (zero fees)](https://steemitwallet.com/market).
+
+### Puss Meme
+[$PUSS](https://puss.meme) Is The First MemeCoin Of Steemit Platform On Tron Blockchain. In our digital world, fun, trust, security, and efficiency are vital. 
+- [Whitepaper](https://puss.meme/whitepaper.pdf)
+- [Token](https://sunpump.meme/token/TX5eXdf8458bZ77fk8xdvUgiQmC3L93iv7)
 
 ### Exchanges that support STEEM
 *Make sure you put the memo when sending funds to the exchanges*
