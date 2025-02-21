@@ -175,13 +175,14 @@ You can swap STEEM to SBD or vice versa in [STEEM internal market (zero fees)](h
 ### Exchanges that support STEEM
 *Make sure you put the memo when sending funds to the exchanges*
 
-- [HTX](https://justyy.com/out/htx)
-- [Poloniex](https://justyy.com/out/poloniex)
-- [MEXC](https://justyy.com/out/mexc)
-- [Binance](https://justyy.com/out/binance)
+- [HTX](https://steemyy.com/out/htx): Spot: STEEM/USDT
+- [Poloniex](https://steemyy.com/out/poloniex): Spot: STEEM/USDT, STEEM/BTC, STEEM/TRX
+- [MEXC](https://steemyy.com/out/mexc): Spot: STEEM/USDT
+- [Binance](https://steemyy.com/out/binance): Spot: STEEM/BTC, STEEM/USDT, STEEM/ETH, STEEM/USDC
+- [Probit](https://steemyy.com/out/probit): Spot: STEEM/USDT, STEEM/BTC
 
 ### Exchanges that support SBD
-- [HTX](https://justyy.com/out/htx)
+- [HTX](https://steemyy.com/out/htx)
 
 ### Rent Steem Power
 You can rent/lease Steem Power:
