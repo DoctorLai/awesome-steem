@@ -147,6 +147,7 @@ You can vote or proxy a Steem Witness:
   - [SteemHunt](https://steemhunt.com/sign-up) Free Account Registration by [@steemhunt](https://steemit.com/@steemhunt)
   - [Steem Account Creator](https://steemworld.org/account-creator) - Requires RC or 3 STEEM, by [@steemchiller](https://steemit.com/@steemchiller)
   - [A Pussfi Project Steem-id](https://steem-id.com/) by [Puss Meme Team](https://puss.meme/)
+  - [Account Creation Tools by @symbionts](https://joinblocks.org/steem) by [@symbionts](https://steemit.com/@symbionts)
 - Search
   - [Search Posts on Steemit](https://moecki.online/) - By [@moecki](https://steemit.com/@moecki)
 
