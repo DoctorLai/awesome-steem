@@ -122,7 +122,7 @@ You can vote or proxy a Steem Witness:
   - [SteemIt](https://steemitwallet.com/recover_account_step_1)
   - [SteemWorld](https://steemworld.org/account-recovery) - by [@steemchiller](https://steemit.com/@steemchiller)
 - Authentication / Wallet
-  - [Steem Keychain](https://github.com/DoctorLai/steem-keychain) - A wallet browser extension for the Steem blockchain and cryptocurrency.
+  - [Steem Keychain](https://github.com/faisalamin9696/steem-keychain-extension) - A wallet browser extension for the Steem blockchain and cryptocurrency.
   - [Whale Vault](https://chromewebstore.google.com/detail/whalevault/hcoigoaekhfajcoingnngmfjdidhmdon) - This chrome extension supports multiple chains including STEEM.
   - [Steem Keys](https://steemyy.com/keys/) - View the Steem Active/Posting/Owner Keys by [@justyy](https://steemit.com/@justyy)
   - [Steemit Wallet](https://steemitwallet.com) - Official Steemit Wallet, ([code](https://github.com/steemit/wallet)).
