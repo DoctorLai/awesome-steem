@@ -150,6 +150,7 @@ You can vote or proxy a Steem Witness:
   - [Account Creation Tools by @symbionts](https://joinblocks.org/steem) by [@symbionts](https://steemit.com/@symbionts)
 - Search
   - [Search Posts on Steemit](https://moecki.online/) - By [@moecki](https://steemit.com/@moecki)
+  - [SteemHub](https://steemhub.tech/): A tool focused on statistics visualization. It helps users track and analyze performance through interactive charts and graphs. More info: [Steemit Post](https://steemit.com/steem-dev/@kafio/tool-for-getting-stats-the-first-tool-under-steemhub)
 
 ## dApps
 
@@ -165,6 +166,12 @@ You can vote or proxy a Steem Witness:
 - GameFi
   - [Steem Retro Games](https://steem-retrogames.com/) by [@time.foundation](https://steemit.com/@time.foundation) and [@italygame](https://steemit.com/@italygame).
   - [Steem Memory Game](https://memory-game.steemhub.tech/) by [@kafio](https://steemit.com/kafio)
+
+## Chrome Extensions
+- [Steem Keychain](https://github.com/faisalamin9696/steem-keychain-extension) - A wallet browser extension for the Steem blockchain and cryptocurrency.
+- [Whale Vault](https://chromewebstore.google.com/detail/whalevault/hcoigoaekhfajcoingnngmfjdidhmdon) - This chrome extension supports multiple chains including STEEM.
+- [Steemit Blog Formatter](https://chromewebstore.google.com/detail/steemit-blog-formatter/mokepjeindhmgelkmdgimghehgodpemg): This Chrome extension helps you format your Steemit posts like a pro, making your content cleaner and more professional. More info: [Steemit Post](https://steemit.com/steem-dev/@kafio/steemit-blog-formatter-format-your-posts-like-a-pro)
+- [Steemit Notification Saver](https://steemit.com/freewriters/@kafio/saving-important-notifications-with-a-chrome-extension-steemit-notification-saver): A Chrome extension for saving important Steemit notifications, so you never miss anything crucial.
 
 ## DeFi
 You can swap STEEM to SBD or vice versa in [STEEM internal market (zero fees)](https://steemitwallet.com/market).
@@ -195,6 +202,7 @@ You can rent/lease Steem Power:
 *Swap STEEM or SBD to other coins/tokens.*
 
 - [Tron(TRX/USDT/USDD) to STEEM](https://steemyy.com/tron2steem.php)
+- [Steem/SBD to SUI](https://steemyy.com/steem2sui.php)
 - [Steem/SBD to TRX](https://steemyy.com/steem2trx.php)
 - [Steem/SBD to USDT](https://steemyy.com/steem2usdt.php)
 - [Steem/SBD to BTS](https://steemyy.com/steem2bts.php)
