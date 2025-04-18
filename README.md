@@ -164,6 +164,7 @@ You can vote or proxy a Steem Witness:
 
 - GameFi
   - [Steem Retro Games](https://steem-retrogames.com/) by [@time.foundation](https://steemit.com/@time.foundation) and [@italygame](https://steemit.com/@italygame).
+  - [Steem Memory Game](https://memory-game.steemhub.tech/) by [@kafio](https://steemit.com/kafio)
 
 ## DeFi
 You can swap STEEM to SBD or vice versa in [STEEM internal market (zero fees)](https://steemitwallet.com/market).
