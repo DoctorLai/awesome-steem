@@ -148,6 +148,7 @@ You can vote or proxy a Steem Witness:
   - [Steem Account Creator](https://steemworld.org/account-creator) - Requires RC or 3 STEEM, by [@steemchiller](https://steemit.com/@steemchiller)
   - [A Pussfi Project Steem-id](https://steem-id.com/) by [Puss Meme Team](https://puss.meme/)
   - [Account Creation Tools by @symbionts](https://joinblocks.org/steem) by [@symbionts](https://steemit.com/@symbionts)
+  - [A service for creating Steem accounts with automatic VESTS delegation (accounts must be claimed before)](https://github.com/FutureShockco/steem-account-creation) by [@hightouch](https://steemit.com/@hightouch)
 - Search
   - [Search Posts on Steemit](https://moecki.online/) - By [@moecki](https://steemit.com/@moecki)
   - [SteemHub](https://steemhub.tech/): A tool focused on statistics visualization. It helps users track and analyze performance through interactive charts and graphs. More info: [Steemit Post](https://steemit.com/steem-dev/@kafio/tool-for-getting-stats-the-first-tool-under-steemhub)
