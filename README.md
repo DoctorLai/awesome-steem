@@ -34,6 +34,7 @@
 Steem node implementation.
 
 - [Steem on Github repository](https://github.com/steemit/steem) - This is where most of the development takes place.
+- [Steem Deep Wiki](https://deepwiki.com/steemit/steem) - AI Generated Documentation.
 
 ## Frontends
 
@@ -86,7 +87,7 @@ You can vote or proxy a Steem Witness:
 *The Steem blockchain infrastructure*
 
 - [Steem](https://steem.io) - Fast, scalable, powerful blockchain for Web3.0, ([code](https://github.com/steemit/steem)).
-- [hivemind](https://github.com/steemit/hivemind) - Developer-friendly microservice powering social networks on the Steem blockchain.
+- [hivemind](https://github.com/steemit/hivemind) - Developer-friendly microservice powering social networks on the Steem blockchain. [Deep Wiki](https://deepwiki.com/steemit/hivemind)
 - [Steem Backup Data Server](https://files.steem.fans/) - by [@ety001](https://steemit.com/@ety001)
 - RPC/Seed Nodes:
   - [List of Seed Nodes](https://github.com/DoctorLai/simple-steem-docker/blob/main/steem-seed-nodes.txt)
@@ -125,7 +126,7 @@ You can vote or proxy a Steem Witness:
   - [Steem Keychain](https://github.com/faisalamin9696/steem-keychain-extension) - A wallet browser extension for the Steem blockchain and cryptocurrency.
   - [Whale Vault](https://chromewebstore.google.com/detail/whalevault/hcoigoaekhfajcoingnngmfjdidhmdon) - This chrome extension supports multiple chains including STEEM.
   - [Steem Keys](https://steemyy.com/keys/) - View the Steem Active/Posting/Owner Keys by [@justyy](https://steemit.com/@justyy)
-  - [Steemit Wallet](https://steemitwallet.com) - Official Steemit Wallet, ([code](https://github.com/steemit/wallet)).
+  - [Steemit Wallet](https://steemitwallet.com) - Official Steemit Wallet, ([code](https://github.com/steemit/wallet)) - [DeepWiki](https://deepwiki.com/steemit/wallet).
   - [steem.vip](https://vip.steem.vip) - Steem wallet by [@maiyude](https://steemit.com/@maiyude). ([code](https://github.com/maiyude2018/steem-web-wallet))
 - Data Service / API
   - [SDS API Reference](https://sds1.steemworld.org/) - by [@steemchiller](https://steemit.com/@steemchiller)
