@@ -237,7 +237,7 @@ Here is the [STEEM dapps and services list](https://steemit.vercel.app/svcs) by 
 
 #### Comment Bots
 You can invoke bots when posting comments:
-- *!ask PROMPT*: [invokes ChatGPT 3.5](https://helloacm.com/integrating-chatgpt-prompt-ai-to-steem-blockchain/), by [@justyy](https://steemit.com/@justyy)
+- *!ask PROMPT*: [invokes ChatGPT](https://helloacm.com/integrating-chatgpt-prompt-ai-to-steem-blockchain/) or [Grok](https://helloacm.com/chatgpt-writes-a-python-script-to-interact-with-grok-llm-from-x-ai-free-25-credit/), by [@justyy](https://steemit.com/@justyy)
 - *!thumbup*: summons a Random Giphy, by [@justyy](https://steemit.com/@justyy)
 - *!info*: displays current STEEM information, by [@justyy](https://steemit.com/@justyy)
 
