@@ -241,6 +241,7 @@ You can invoke bots when posting comments:
 - *!ask PROMPT*: [invokes ChatGPT](https://helloacm.com/integrating-chatgpt-prompt-ai-to-steem-blockchain/) or [Grok](https://helloacm.com/chatgpt-writes-a-python-script-to-interact-with-grok-llm-from-x-ai-free-25-credit/), by [@justyy](https://steemit.com/@justyy)
 - *!thumbup*: summons a Random Giphy, by [@justyy](https://steemit.com/@justyy)
 - *!info*: displays current STEEM information, by [@justyy](https://steemit.com/@justyy)
+- *!price*: displays something like [this](https://steemit.com/blog/@justyy/syk6df#@witnesstools/20250628t090101387z).
 
 ## Social Network
 - [Facebook](https://www.facebook.com/steemnetwork)
