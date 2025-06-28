@@ -56,7 +56,7 @@ Steem node implementation.
 - [SteemYY](https://steemyy.com/block.php) - This is owned by [@justyy](https://steemit.com/@justyy)
 - [Ecosynthesizer](https://ecosynthesizer.com/steem/blk/82824811) - This is owned by [@symbionts](https://steemit.com/@symbionts)
 - [SteemScan](https://steemscan.com/block/82974704) - This is owned by [@future.witness](https://steemit.com/@future.witness)
-- [Block Explorer @ Blaze](https://blazescanner.org/blocks)
+- [Steem Explorer](https://joticajulian.github.io/steemexplorer/#/explorer) - This is open sourced and owned by [@jga](https://steemit.com/utopian-io/@jga/steem-explorer-based-on-steem-js-1539631316061)
 
 ## Common Operations for Steemians
 ### Delegate Steem Power
@@ -121,7 +121,6 @@ You can vote or proxy a Steem Witness:
     - [SteemCryptic](https://www.steemcryptic.me/) by [@starlord28](https://steemit.com/@starlord28)
     - [SteemBlocks](https://steemblocks.com/) by [@dhaka.witness](https://steemit.com/@dhaka.witness)
     - [Steem Fans](https://steem.cool/) by [@ety001](https://steemit.com/@ety001)
-    - [Blaze](https://blazescanner.org/)
 - Account Recovery
   - [SteemIt](https://steemitwallet.com/recover_account_step_1)
   - [SteemWorld](https://steemworld.org/account-recovery) - by [@steemchiller](https://steemit.com/@steemchiller)
@@ -139,14 +138,15 @@ You can vote or proxy a Steem Witness:
   - [Witness Price Feed Publish](https://github.com/DoctorLai/pricefeed) - by [@justyy](https://steemit.com/@justyy)
   - [Simple Steem Docker Utility](https://github.com/DoctorLai/simple-steem-docker/) - by [@justyy](https://steemit.com/@justyy)
   - [Auto Switch Steem Witness Node](https://github.com/DoctorLai/SteemWitnessAutoSwitch) - by [@justyy](https://steemit.com/@justyy)
+  - [Witness Monitor Map](https://joticajulian.github.io/steemexplorer/#/map) - This is open sourced and owned by [@jga](https://steemit.com/utopian-io/@jga/steem-explorer-based-on-steem-js-1539631316061)
   - Ranking Table
     - [Witness List](https://steemitwallet.com/~witnesses) - Steem Inc.
     - [Witness List](https://ecosynthesizer.com/steem/witnesses) - Witness List by [@symbionts](https://steemit.com/@symbionts).
     - [Witness List](https://steemyy.com/witness-ranking/) - Witness List by [@justyy](https://steemit.com/@justyy).
     - [Witness List](https://steemscan.com/witnesses) - Witness List by [@future.witness](https://steemit.com/@future.witness).
     - [Witness List](https://steemworld.org/witnesses) - Witness List by [@steemchiller](https://steemit.com/@steemchiller).
-    - [Witnesses @ Blaze Scanner](https://blazescanner.org/witnesses)
     - [Witnesses @ Ecosynthesizer](https://ecosynthesizer.com/steem/witnesses) by [@symbionts](https://steemit.com/@symbionts)
+    - [Witnesses @ Steem Explorer](https://joticajulian.github.io/steemexplorer/#/witnesses) - This is open sourced and owned by [@jga](https://steemit.com/utopian-io/@jga/steem-explorer-based-on-steem-js-1539631316061)
 - Account Registrations
   - [List of Account Signup Tools](https://signup.steemcn.xyz/) - by [@ericet](https://steemit.com/@ericet). This lists a few available account signup tools.
   - [SteemIt](https://signup.steemit.com/) Official Account Sign Up by Steemit.
@@ -226,9 +226,9 @@ Here is the [STEEM dapps and services list](https://steemit.vercel.app/svcs) by 
 *Steem DAO is dedicated to improve the Steem platform*
 
 - [Decentralized Steem Fund](https://developers.steem.io/services/#services-dhf) - Propose and vote for projects that improves Steem and promote its growth. [See current proposals](https://steemitwallet.com/proposals)
-- [DAO Proposals](https://blazescanner.org/dao-proposals)
 - [DAO SteemWorld](https://steemworld.org/proposals)
 - [DAO Proposals](https://ecosynthesizer.com/steem/proposals) by [@symbionts](https://steemit.com/@symbionts)
+- [DAO Proposals](https://joticajulian.github.io/steemexplorer/#/proposals) - This is open sourced and owned by [@jga](https://steemit.com/utopian-io/@jga/steem-explorer-based-on-steem-js-1539631316061)
 
 ### Tokens
 - [Peanut Community](https://app.nutbox.io/#/sub-community/home/?id=0xc54C1F0E7A75Fb405038891E316c973D26Bf0125) by [@iguazi123](https://steemit.com/@iguazi123)
