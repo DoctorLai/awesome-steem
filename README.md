@@ -36,6 +36,13 @@ Steem node implementation.
 - [Steem on Github repository](https://github.com/steemit/steem) - This is where most of the development takes place.
 - [Steem Deep Wiki](https://deepwiki.com/steemit/steem) - AI Generated Documentation.
 
+### Prebuilt Steemd Images
+[@justyy](https://steemit.com/@justyy) provides the [prebuilt steemd images](https://hub.docker.com/r/justyy/steem/tags), for example, you can:
+
+```bash
+docker pull justyy/steem:ubuntu24.04
+```
+
 ## Frontends
 
 ### Generic
