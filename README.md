@@ -64,6 +64,7 @@ docker pull justyy/steem:ubuntu24.04
 - [Ecosynthesizer](https://ecosynthesizer.com/steem/blk/82824811) - This is owned by [@symbionts](https://steemit.com/@symbionts)
 - [SteemScan](https://steemscan.com/block/82974704) - This is owned by [@future.witness](https://steemit.com/@future.witness)
 - [Steem Explorer](https://joticajulian.github.io/steemexplorer/#/explorer) - This is open sourced and owned by [@jga](https://steemit.com/utopian-io/@jga/steem-explorer-based-on-steem-js-1539631316061)
+- [Steem Explorer](https://steemexplorer.com/) - by [@steemfy](https://steemit.com/@steemfy)
 
 ## Common Operations for Steemians
 ### Delegate Steem Power
@@ -128,6 +129,7 @@ You can vote or proxy a Steem Witness:
     - [SteemCryptic](https://www.steemcryptic.me/) by [@starlord28](https://steemit.com/@starlord28)
     - [SteemBlocks](https://steemblocks.com/) by [@dhaka.witness](https://steemit.com/@dhaka.witness)
     - [Steem Fans](https://steem.cool/) by [@ety001](https://steemit.com/@ety001)
+    - [SteemFy](https://steemfy.com/) by [@steemfy](https://steemit.com/@steemfy)
 - Account Recovery
   - [SteemIt](https://steemitwallet.com/recover_account_step_1)
   - [SteemWorld](https://steemworld.org/account-recovery) - by [@steemchiller](https://steemit.com/@steemchiller)
@@ -154,6 +156,7 @@ You can vote or proxy a Steem Witness:
     - [Witness List](https://steemworld.org/witnesses) - Witness List by [@steemchiller](https://steemit.com/@steemchiller).
     - [Witnesses @ Ecosynthesizer](https://ecosynthesizer.com/steem/witnesses) by [@symbionts](https://steemit.com/@symbionts)
     - [Witnesses @ Steem Explorer](https://joticajulian.github.io/steemexplorer/#/witnesses) - This is open sourced and owned by [@jga](https://steemit.com/utopian-io/@jga/steem-explorer-based-on-steem-js-1539631316061)
+    - [Witnesses @ SteemFy](https://steemexplorer.com/witnesses) - by [@steemfy](https://steemit.com/@steemfy)
 - Account Registrations
   - [List of Account Signup Tools](https://signup.steemcn.xyz/) - by [@ericet](https://steemit.com/@ericet). This lists a few available account signup tools.
   - [SteemIt](https://signup.steemit.com/) Official Account Sign Up by Steemit.
@@ -189,7 +192,8 @@ You can vote or proxy a Steem Witness:
 - [Steemit Notification Saver](https://steemit.com/freewriters/@kafio/saving-important-notifications-with-a-chrome-extension-steemit-notification-saver): A Chrome extension for saving important Steemit notifications, so you never miss anything crucial.
 
 ## DeFi
-You can swap STEEM to SBD or vice versa in [STEEM internal market (zero fees)](https://steemitwallet.com/market).
+- You can swap STEEM to SBD or vice versa in [STEEM internal market (zero fees)](https://steemitwallet.com/market).
+- [SteemDEX](https://steemdex.com/) by [@steemfy](https://steemit.com/@steemfy)
 
 ### Puss Meme
 [$PUSS](https://puss.meme) Is The First MemeCoin Of Steemit Platform On Tron Blockchain. In our digital world, fun, trust, security, and efficiency are vital. 
@@ -236,6 +240,7 @@ Here is the [STEEM dapps and services list](https://steemit.vercel.app/svcs) by 
 - [DAO SteemWorld](https://steemworld.org/proposals)
 - [DAO Proposals](https://ecosynthesizer.com/steem/proposals) by [@symbionts](https://steemit.com/@symbionts)
 - [DAO Proposals](https://joticajulian.github.io/steemexplorer/#/proposals) - This is open sourced and owned by [@jga](https://steemit.com/utopian-io/@jga/steem-explorer-based-on-steem-js-1539631316061)
+- [DAO Proposals](https://steemexplorer.com/proposals) - by [@steemfy](https://steemit.com/@steemfy)
 
 ### Tokens
 - [Peanut Community](https://app.nutbox.io/#/sub-community/home/?id=0xc54C1F0E7A75Fb405038891E316c973D26Bf0125) by [@iguazi123](https://steemit.com/@iguazi123)
