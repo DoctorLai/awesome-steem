@@ -259,6 +259,7 @@ You can invoke bots when posting comments:
 - [Facebook](https://www.facebook.com/steemnetwork)
 - [X: steemit](https://x.com/steemit)
 - [X: SteemNetwork](https://x.com/SteemNetwork)
+- [Coinmarketcap: Steem](https://coinmarketcap.com/community/profile/Steem/)
 
 ## Contribute
 
