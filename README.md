@@ -258,6 +258,9 @@ You can invoke bots when posting comments:
 - *!info*: displays current STEEM information, by [@justyy](https://steemit.com/@justyy)
 - *!price*: displays something like [this](https://steemit.com/blog/@justyy/syk6df#@witnesstools/20250628t090101387z).
 
+#### Known Bots
+- [@punicwax](https://steemit.com/@punicwax/comments)
+
 ## Social Network
 - [Facebook](https://www.facebook.com/steemnetwork)
 - [X: steemit](https://x.com/steemit)
