@@ -130,6 +130,7 @@ You can vote or proxy a Steem Witness:
     - [SteemBlocks](https://steemblocks.com/) by [@dhaka.witness](https://steemit.com/@dhaka.witness)
     - [Steem Fans](https://steem.cool/) by [@ety001](https://steemit.com/@ety001)
     - [SteemFy](https://steemfy.com/) by [@steemfy](https://steemit.com/@steemfy)
+    - [SteemBlocks.com](https://steemblocks.com/) - By [@dhaka.witness](https://steemit.com/@dhaka.witness)
 - Account Recovery
   - [SteemIt](https://steemitwallet.com/recover_account_step_1)
   - [SteemWorld](https://steemworld.org/account-recovery) - by [@steemchiller](https://steemit.com/@steemchiller)
@@ -157,6 +158,7 @@ You can vote or proxy a Steem Witness:
     - [Witnesses @ Ecosynthesizer](https://ecosynthesizer.com/steem/witnesses) by [@symbionts](https://steemit.com/@symbionts)
     - [Witnesses @ Steem Explorer](https://joticajulian.github.io/steemexplorer/#/witnesses) - This is open sourced and owned by [@jga](https://steemit.com/utopian-io/@jga/steem-explorer-based-on-steem-js-1539631316061)
     - [Witnesses @ SteemFy](https://steemexplorer.com/witnesses) - by [@steemfy](https://steemit.com/@steemfy)
+    - [Steem Witnesses @Dhaka.witnesses](https://steemblocks.com/witness-list)
 - Account Registrations
   - [List of Account Signup Tools](https://signup.steemcn.xyz/) - by [@ericet](https://steemit.com/@ericet). This lists a few available account signup tools.
   - [SteemIt](https://signup.steemit.com/) Official Account Sign Up by Steemit.
@@ -194,6 +196,7 @@ You can vote or proxy a Steem Witness:
 ## DeFi
 - You can swap STEEM to SBD or vice versa in [STEEM internal market (zero fees)](https://steemitwallet.com/market).
 - [SteemDEX](https://steemdex.com/) by [@steemfy](https://steemit.com/@steemfy)
+- [Burn](https://burn.steemblocks.com/)
 
 ### Puss Meme
 [$PUSS](https://puss.meme) Is The First MemeCoin Of Steemit Platform On Tron Blockchain. In our digital world, fun, trust, security, and efficiency are vital. 
