@@ -55,6 +55,7 @@ docker pull justyy/steem:ubuntu24.04
 - [Boylikegirl](https://boylikegirl.club/community) - By [@boylikegirl](https://steemit.com/@boylikegirl)
 - [WhereIn](http://www.wherein.io/) - By [@iguazi123](https://steemit.com/@iguazi123)
 - [SteemX.org](https://steemx.org/) - By [@bountyking5](https://steemit.com/@bountyking5)
+- [steemit.moecki.online](https://steemit.moecki.online/) by @moecki
 
 ## Block Explorers
 - [Steem Block Explorer](https://steemblockexplorer.com/) - by [@penguinpablo](https://steemit.com/@penguinpablo)
